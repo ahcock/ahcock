@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Josh Park</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
-- 🔭 I’m currently working on [Interactive Sound Toon](https://bit.ly/soundToon)
+- 🔭 I’m currently working on [Eosi Project](https://github.com/ahcock/eosi-api)
 
 - 🌱 I’m currently learning **various frontend skills**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/toyProjects](https://bit.ly/toyProjects)
-
 - 📝 I regularly write articles on [https://bit.ly/sr-study-space](https://bit.ly/sr-study-space)
 
-- 💬 Ask me about **react, next.js, Web Audio API**
-
 - 📫 How to reach me **srparkgogo@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/joshLinkedIn](https://bit.ly/joshLinkedIn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
